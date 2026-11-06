@@ -1,7 +1,7 @@
 ﻿{
 	"name": "VoidSymbioticScorpion",
-	"version_number": "1.0.0",
-	"website_url": "",
+	"version_number": "1.0.3",
+	"website_url": "https://github.com/Slendykray/VoidScorpion",
 	"description": "Makes Symbiotic Scorpion a void tier item",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.2108",
